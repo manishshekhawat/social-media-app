@@ -12,9 +12,10 @@ const Navbar = () => {
           <input
             type="text"
             placeholder="Search"
-            className="bg-gray-800 h-10 text-start p-2 rounded-lg m-5 w-70"
+            className="hidden sm:block bg-gray-800 h-10 text-start p-2 rounded-lg m-5 w-70 "
           />
           <Icon icon="mdi:heart-outline" width="30" height="30" />
+          <Icon icon="ant-design:message-outlined" width="30" height="30" className="m-5 sm:hidden"/>
         </div>
       </div>
     </>
