@@ -1,0 +1,164 @@
+[
+    {
+      "image": "https://example.com/images/product1.jpg",
+      "name": "Wireless Bluetooth Headphones",
+      "description": "High-quality wireless headphones with noise cancellation and 20-hour battery life.",
+      "category": "Electronics",
+      "price": 99.99,
+      "rating": 4.5
+    },
+    {
+      "image": "https://example.com/images/product2.jpg",
+      "name": "Stainless Steel Water Bottle",
+      "description": "Eco-friendly insulated water bottle that keeps liquids hot or cold for 24 hours.",
+      "category": "Home & Kitchen",
+      "price": 24.99,
+      "rating": 4.7
+    },
+    {
+      "image": "https://example.com/images/product3.jpg",
+      "name": "Organic Cotton T-Shirt",
+      "description": "Soft, breathable t-shirt made from 100% organic cotton.",
+      "category": "Clothing",
+      "price": 19.99,
+      "rating": 4.3
+    },
+    {
+      "image": "https://example.com/images/product4.jpg",
+      "name": "Smartphone Stand",
+      "description": "Adjustable stand for phones and tablets with anti-slip base.",
+      "category": "Accessories",
+      "price": 12.49,
+      "rating": 4.0
+    },
+    {
+      "image": "https://example.com/images/product5.jpg",
+      "name": "Yoga Mat",
+      "description": "Non-slip, eco-friendly yoga mat with carrying strap.",
+      "category": "Fitness",
+      "price": 29.99,
+      "rating": 4.8
+    },
+    {
+      "image": "https://example.com/images/product6.jpg",
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable toothbrush with 3 cleaning modes and 2 brush heads.",
+      "category": "Health",
+      "price": 49.99,
+      "rating": 4.6
+    },
+    {
+      "image": "https://example.com/images/product7.jpg",
+      "name": "Portable Bluetooth Speaker",
+      "description": "Waterproof speaker with 10-hour playtime and deep bass.",
+      "category": "Electronics",
+      "price": 59.99,
+      "rating": 4.4
+    },
+    {
+      "image": "https://example.com/images/product8.jpg",
+      "name": "LED Desk Lamp",
+      "description": "Adjustable brightness and color temperature for eye comfort.",
+      "category": "Home & Office",
+      "price": 34.99,
+      "rating": 4.2
+    },
+    {
+      "image": "https://example.com/images/product9.jpg",
+      "name": "Wireless Charging Pad",
+      "description": "Fast-charging Qi-compatible pad for smartphones.",
+      "category": "Electronics",
+      "price": 22.99,
+      "rating": 4.1
+    },
+    {
+      "image": "https://example.com/images/product10.jpg",
+      "name": "Air Fryer",
+      "description": "Compact air fryer with digital controls and 3.5L capacity.",
+      "category": "Kitchen Appliances",
+      "price": 79.99,
+      "rating": 4.7
+    },
+    {
+      "image": "https://example.com/images/product11.jpg",
+      "name": "Running Shoes",
+      "description": "Lightweight, cushioned shoes for maximum comfort.",
+      "category": "Footwear",
+      "price": 89.99,
+      "rating": 4.5
+    },
+    {
+      "image": "https://example.com/images/product12.jpg",
+      "name": "Backpack",
+      "description": "Durable, water-resistant backpack with USB charging port.",
+      "category": "Accessories",
+      "price": 45.99,
+      "rating": 4.3
+    },
+    {
+      "image": "https://example.com/images/product13.jpg",
+      "name": "Fitness Tracker",
+      "description": "Tracks steps, heart rate, and sleep with 7-day battery.",
+      "category": "Wearables",
+      "price": 69.99,
+      "rating": 4.4
+    },
+    {
+      "image": "https://example.com/images/product14.jpg",
+      "name": "Coffee Maker",
+      "description": "Programmable coffee maker with thermal carafe.",
+      "category": "Kitchen Appliances",
+      "price": 54.99,
+      "rating": 4.6
+    },
+    {
+      "image": "https://example.com/images/product15.jpg",
+      "name": "Gaming Mouse",
+      "description": "High-precision mouse with customizable RGB lighting.",
+      "category": "Gaming",
+      "price": 39.99,
+      "rating": 4.7
+    },
+    {
+      "image": "https://example.com/images/product16.jpg",
+      "name": "Sunglasses",
+      "description": "UV-protected polarized sunglasses with lightweight frame.",
+      "category": "Accessories",
+      "price": 29.99,
+      "rating": 4.2
+    },
+    {
+      "image": "https://example.com/images/product17.jpg",
+      "name": "Laptop Stand",
+      "description": "Ergonomic stand to improve posture while working.",
+      "category": "Office",
+      "price": 25.99,
+      "rating": 4.0
+    },
+    {
+      "image": "https://example.com/images/product18.jpg",
+      "name": "Resistance Bands Set",
+      "description": "5-piece set for full-body workouts at home or gym.",
+      "category": "Fitness",
+      "price": 19.99,
+      "rating": 4.3
+    },
+    {
+      "image": "https://example.com/images/product19.jpg",
+      "name": "Smart Plug",
+      "description": "Wi-Fi-enabled plug for voice control and scheduling.",
+      "category": "Smart Home",
+      "price": 16.99,
+      "rating": 4.1
+    },
+    {
+      "image": "https://example.com/images/product20.jpg",
+      "name": "Cookware Set",
+      "description": "Non-stick 10-piece set for everyday cooking.",
+      "category": "Kitchen",
+      "price": 129.99,
+      "rating": 4.8
+    }
+    
+  ]
+
