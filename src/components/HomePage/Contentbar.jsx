@@ -79,7 +79,7 @@ const Contentbar = () => {
   ];
 
   return (
-    <div className="h-screen ">
+    <div className="h-{100%} ">
       <div className="block md:hidden h-15  mb-5 border-b border-gray-800">
         <Navbar />
       </div>
@@ -106,7 +106,7 @@ const Contentbar = () => {
       </div>
 
       {/* <------------------postSection---------------> */}
-      <div className="post-section mx-5 md:mx-15 lg:mx-30 h-200 bg-black text-white border-b border-gray-800">
+      <div className="post-section mx-0 md:mx-10 lg:mx-30 h-200 bg-black text-white border-b border-gray-800">
         <div className="h-150 w-full bg-amber-700">
           <div className="post-navbar flex justify-between items-center bg-black text-white h-15 w-full ">
             <Link to="#" className="flex items-center gap-3">
