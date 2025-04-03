@@ -106,7 +106,7 @@ const Contentbar = () => {
       </div>
 
       {/* <------------------postSection---------------> */}
-      <div className="post-section mx-30 h-200 bg-black text-white border-b border-gray-800">
+      <div className="post-section mx-10 lg:mx-30 h-200 bg-black text-white border-b border-gray-800">
         <div className="h-150 w-full bg-amber-700">
           <div className="post-navbar flex justify-between items-center bg-black text-white h-15 w-full ">
             <Link to="#" className="flex items-center gap-3">
