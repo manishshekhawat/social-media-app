@@ -9,7 +9,7 @@ const Footer = () => {
       <Icon icon="hugeicons:play-list" width="35" height="30" />
       <Icon icon="mynaui:plus-square" width="35" height="30" />
       <Icon icon="ant-design:message-outlined" width="35" height="30" className="hidden sm:block"/>
-      <Icon icon="material-symbols-light:search-rounded" width="30" height="30" className="md:hidden" />
+      <Icon icon="material-symbols-light:search-rounded" width="30" height="30" className="sm:hidden" />
       <Icon icon="ix:user-profile-filled" width="35" height="30" />
     </div>
   );
